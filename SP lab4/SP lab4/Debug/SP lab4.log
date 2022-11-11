@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Uzivatel\source\repos\SP lab4\SP lab4\Source.c(106,23): warning C4133: 'function': incompatible types - from 'FILE *' to 'const char *const '
+C:\Users\Uzivatel\source\repos\SP lab4\SP lab4\Source.c(121,23): warning C4133: 'function': incompatible types - from 'FILE *' to 'const char *const '
+  SP lab4.vcxproj -> C:\Users\Uzivatel\source\repos\SP lab4\Debug\SP lab4.exe
