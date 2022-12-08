@@ -1,0 +1,7 @@
+﻿  zad5.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(52,1): warning C4005: 'EXIT_SUCCESS': macro redefinition
+C:\Users\Uzivatel\Desktop\Strukture-podataka-22-23\SP lab5\SP lab5\zad5.c(3): message : see previous definition of 'EXIT_SUCCESS'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(53,1): warning C4005: 'EXIT_FAILURE': macro redefinition
+C:\Users\Uzivatel\Desktop\Strukture-podataka-22-23\SP lab5\SP lab5\zad5.c(2): message : see previous definition of 'EXIT_FAILURE'
+C:\Users\Uzivatel\Desktop\Strukture-podataka-22-23\SP lab5\SP lab5\zad5.c(48,22): warning C4047: 'return': 'pozicija' differs in levels of indirection from 'int'
+  SP lab5.vcxproj -> C:\Users\Uzivatel\Desktop\Strukture-podataka-22-23\SP lab5\Debug\SP lab5.exe
