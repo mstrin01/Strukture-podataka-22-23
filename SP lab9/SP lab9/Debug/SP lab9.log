@@ -1,0 +1,3 @@
+﻿  zad9.c
+C:\Users\Uzivatel\Desktop\FAKS\programiranje\SP lab9\SP lab9\zad9.c(53,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SP lab9.vcxproj -> C:\Users\Uzivatel\Desktop\FAKS\programiranje\SP lab9\Debug\SP lab9.exe
