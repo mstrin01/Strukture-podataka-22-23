@@ -1,0 +1,4 @@
+Frankfurt 750000
+Koln 1000000
+Berlin 3600000
+Stuttgart 600000

@@ -1,0 +1,4 @@
+Brugge 120000
+Gent 240000
+Anderlecht 92000
+Bruxelles 140000
