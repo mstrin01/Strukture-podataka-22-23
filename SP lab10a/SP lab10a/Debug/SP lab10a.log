@@ -1,0 +1,12 @@
+﻿  zad10a.c
+C:\Users\Uzivatel\Desktop\FAKS\programiranje\SP lab10a\SP lab10a\zad10a.c(5,1): warning C4005: 'max': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(1282): message : see previous definition of 'max'
+C:\Users\Uzivatel\Desktop\FAKS\programiranje\SP lab10a\SP lab10a\zad10a.c(52,18): warning C4133: 'function': incompatible types - from 'pozicija' to 'position'
+C:\Users\Uzivatel\Desktop\FAKS\programiranje\SP lab10a\SP lab10a\zad10a.c(59,9): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+C:\Users\Uzivatel\Desktop\FAKS\programiranje\SP lab10a\SP lab10a\zad10a.c(136,32): warning C4028: formal parameter 1 different from declaration
+C:\Users\Uzivatel\Desktop\FAKS\programiranje\SP lab10a\SP lab10a\zad10a.c(173,55): warning C4047: '=': 'position' differs in levels of indirection from 'int'
+C:\Users\Uzivatel\Desktop\FAKS\programiranje\SP lab10a\SP lab10a\zad10a.c(177,55): warning C4047: '=': 'position' differs in levels of indirection from 'int'
+C:\Users\Uzivatel\Desktop\FAKS\programiranje\SP lab10a\SP lab10a\zad10a.c(214,18): warning C4133: 'function': incompatible types - from 'position' to 'pozicija'
+C:\Users\Uzivatel\Desktop\FAKS\programiranje\SP lab10a\SP lab10a\zad10a.c(227,12): warning C4047: 'return': 'position' differs in levels of indirection from 'int'
+C:\Users\Uzivatel\Desktop\FAKS\programiranje\SP lab10a\SP lab10a\zad10a.c(244,12): warning C4047: 'return': 'pozicija' differs in levels of indirection from 'int'
+  SP lab10a.vcxproj -> C:\Users\Uzivatel\Desktop\FAKS\programiranje\SP lab10a\Debug\SP lab10a.exe
